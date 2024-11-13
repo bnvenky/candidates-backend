@@ -61,7 +61,8 @@ Create a .env file in the backend directory with the following variables:
 
 PORT=8080
 MONGO_URI=mongodb+srv://bnvenkatesheee:Hn4eHx1RbgTOerGK@candidatedata.hk0hg.mongodb.net/?retryWrites=true&w=majority&appName=CandidateData
-Replace <your_mongo_database_uri> with your MongoDB connection string. If using MongoDB Atlas, find your URI on the Atlas dashboard.
+
+### Replace <your_mongo_database_uri> with your MongoDB connection string. If using MongoDB Atlas, find your URI on the Atlas dashboard.
 
 ### Run the Backend
 node index.js
